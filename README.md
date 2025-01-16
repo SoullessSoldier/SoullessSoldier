@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoullessSoldier
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS/Vue, Python/Django
+- 🌱 I’m currently learning JS/TS (Vue.js 3/React), Python (Django/FastAPI)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoullessSoldier&layout=compact)](https://github.com/SoullessSoldier/github-readme-stats)
